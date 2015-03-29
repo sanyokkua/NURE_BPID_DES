@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="MonoDESGTK\MonoDESGTK.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MonoDESGTK\DES_Algorithm\DES.cs">
+    <Files>
+      <File FileName="MonoDESGTK\Program.cs" Line="1" Column="1" />
+      <File FileName="MonoDESGTK\MainWindow.cs" Line="10" Column="12" />
+      <File FileName="MonoDESGTK\DES_Algorithm\GeneralMethods.cs" Line="111" Column="4" />
+      <File FileName="MonoDESGTK\DES_Algorithm\DES.cs" Line="9" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="..\MonoDES\MonoDES\DES_Algorithm\DES.cs" line="208" offsetX="592" offsetY="3024" expression="table" liveUpdate="False" />
+    <Watch file="..\MonoDES\MonoDES\DES_Algorithm\DES.cs" line="212" offsetX="417" offsetY="3088" expression="tableArg" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
